@@ -1,4 +1,4 @@
-Sistema de Votaciones - PHP + MySQL
+Sistema de Votaciones - PHP + MySQL.
 
 Ruta recomendada:
 C:\xampp\htdocs\sistema_votaciones
