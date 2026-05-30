@@ -1,4 +1,4 @@
-Sistema de Votaciones - PHP + MySQL
+Sistema de Votaciones - PHP + MySQL.
 
 Ruta recomendada:
 C:\xampp\htdocs\sistema_votaciones
@@ -28,6 +28,11 @@ Consulta:
 Correo: consulta@votaciones.com
 Contraseña: admin123
 
+Cambios realizados sobre el proyecto base:
+- Se eliminó el logo/imagen de Transmetro.
+- Se agregó logo de votación en formato SVG.
+- Se cambió el diseño a color azul.
+- Se adaptaron módulos para Sistema de Votaciones:
   * Login
   * CRUD de usuarios
   * Roles
@@ -42,3 +47,5 @@ Base de datos:
 Nombre: votaciones_db
 Archivo: db.sql
 
+Nota:
+Si tu carpeta se llama diferente, ajusta la URL según el nombre que copies en htdocs.
